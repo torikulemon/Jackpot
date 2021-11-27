@@ -1,0 +1,125 @@
+ @media (min-width: 1200px){  }
+
+@media (min-width: 768px) and (max-width: 1199.98px) {  }
+
+@media (min-width: 576px) and (max-width: 767.98px) {  }
+
+/* small device */
+ @media (max-width: 575.98px) {
+
+	/* HOME part start */
+
+     .navbar-toggler i{
+        color: #ff39dc;
+    
+    }
+    
+    
+    .navbar-nav {
+        background: #4b0aad54;
+        text-align: center;
+    }
+    .main_menu > a {
+        opacity: 0;
+    }
+    #banner_part {
+        padding: 120px 0 185px 0;
+    }
+.banner_text{
+    margin-top: 35px;
+}
+.banner_text h1 {
+	font-size: 210px;
+	padding-top: 10px;
+}
+.banner_text p {
+	width: 306px;
+}
+.banner_text a {
+	font-size: 20px;
+    margin: 0;
+    margin-top: 20px;
+}
+#game_part {
+	padding: 179px 0 60px 0;
+}
+#claim_part {
+	padding: 60px 0 60px 0;
+}
+.claim_text h2 {
+	font-size: 43px;
+	margin-top: -30px;
+}
+.claim_text p {
+	padding-top: 30px;
+}
+.claim_text a {
+	margin-left: 150px;
+}
+#pricing_part {
+	padding: 60px 0 130px 0;
+}
+.pricing_inner_head {
+	margin-bottom: 70px;
+}
+
+.pricing_head h2 {
+	font-size: 46px;
+    margin-bottom: -60px;
+}
+.pricing_inner a {
+	font-size: 17px;
+}
+#tounament_part {
+	padding: 60px 0 60px 0;
+}
+.touna_head_left h3 {
+	font-size: 28px;
+}
+.touna_head_left h5 {
+	font-size: 16px;
+	margin-left: -25px;
+}
+.pay_meth h3 {
+	padding-top: 15px;
+}
+.foot_info_head h3 {
+	padding-top: 20px;
+}
+/* HOME part end */
+
+/* ABOUT part start  */
+
+ .about_menu h2 {
+	margin-top: -40px; 
+ }
+.bread a.active {
+	margin-bottom: 60px;
+}
+.abou_clie {
+	padding-top: 0px;
+} 
+.about_play .play_but i {
+	margin: 0 15px 0 30px;
+	margin-right: 2px;
+}
+
+/* ABOUT part end  */
+
+/* GAME part start  */
+.main_game {
+	padding: 0px 0 61px 0;
+}
+
+/* GAME part end  */
+
+/* MEMBERSHIP part start  */
+
+.pri_page {
+    margin-top: -30px;
+}
+
+
+
+
+ }
